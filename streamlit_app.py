@@ -58,3 +58,4 @@ st.download_button(
     file_name=f"Seoul_weather_{selected_year}_{selected_month}.csv",
     mime="text/csv"
 )
+streamlit run dashboard.py
