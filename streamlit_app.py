@@ -1,8 +1,3 @@
-import streamlit as st
-import pandas as pd
-import numpy as np
-import plotly.express as px
-
 # --- 1. 앱 기본 설정 ---
 st.set_page_config(
     page_title="MZ 소비 트렌드 대시보드",
