@@ -1,11 +1,3 @@
-import streamlit as st
-
-st.title("🎈import pandas as pd
-import matplotlib.pyplot as plt
-import streamlit as st
-import pandas as pd
-import matplotlib.pyplot as plt
-
 # -------- 标题 --------
 st.set_page_config(page_title="首尔天气仪表板", layout="wide")
 st.title("🌦️ 首尔天气数据仪表板")
